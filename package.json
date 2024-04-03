@@ -1,0 +1,20 @@
+{
+  "name": "action-publish-pnpm-package",
+  "version": "1.0.0",
+  "author": "Vasco Botelho",
+  "license": "MIT",
+  "repository": "vascobotelho/react-blob-shape",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.3"
+  },
+  "files": [
+    "dist"
+  ]
+}
