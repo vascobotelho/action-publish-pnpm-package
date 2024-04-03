@@ -1,9 +1,9 @@
 {
   "name": "action-publish-pnpm-package",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "author": "Vasco Botelho",
   "license": "MIT",
-  "repository": "vascobotelho/react-blob-shape",
+  "repository": "vascobotelho/action-publish-pnpm-package",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
