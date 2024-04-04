@@ -1,3 +1,3 @@
-export const math = () => {
-  return 1 + 1
+export const plus = (a: number, b: number) => {
+  return a + b
 }
