@@ -1,6 +1,6 @@
 {
   "name": "action-publish-pnpm-package",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "author": "Vasco Botelho",
   "license": "MIT",
   "repository": "vascobotelho/action-publish-pnpm-package",
